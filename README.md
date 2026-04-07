@@ -87,5 +87,5 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;⭐+From+Abid+Hossain+Sifat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;❤️+From+Abid+Hossain+Sifat" />
 </p>
