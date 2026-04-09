@@ -82,7 +82,7 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Abid-Hossain-Sifat&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
