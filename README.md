@@ -1,3 +1,8 @@
+<img src="https://i.ibb.co.com/jv7kBfLd/image-17.png"/>
+
+
+---
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+React+Developer;Hardworking+Frontend+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
 </h1>
