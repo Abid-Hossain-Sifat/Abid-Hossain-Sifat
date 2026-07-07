@@ -80,17 +80,23 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Abid-Hossain-Sifat&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abid-Hossain-Sifat&theme=tokyo-night" height="165"/>
-</p>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Abid-Hossain-Sifat&theme=tokyonight"/>
 
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;❤️+From+Abid+Hossain+Sifat" />
-</p>
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abid-Hossain-Sifat&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;❤️+From+Abid+Hossain+Sifat"/>
+
+</div>
