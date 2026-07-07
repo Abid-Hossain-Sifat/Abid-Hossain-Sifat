@@ -83,7 +83,7 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Abid-Hossain-Sifat&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?username=Abid-Hossain-Sifat&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight"/>
 
