@@ -1,44 +1,37 @@
-<img src="https://i.ibb.co.com/jv7kBfLd/image-17.png"/>
-
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+React+Developer;Hardworking+Frontend+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
-</h1>
-
 <div align="center">
-<h1>👋 Hi, I’m Abid Hossain Sifat</h1>
-MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About Clean Code & Real-World Solutions
-<br>
-<br>
-MERN Stack Developer passionate about building fast, scalable, and user-focused web apps. Skilled in JavaScript, React, Node.js, Express, and MongoDB. Love clean code, smart architecture, and solving real-world problems with modern full-stack engineering. Always learning. Always building.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E23,30:134E4A,65:0F2E3D,100:00F5FF&height=200&section=header&text=Abid%20Hossain%20Sifat&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlign=50&descAlignY=58" alt="Banner" width="100%" />
 
----
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+React+Developer;Hardworking+Frontend+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" alt="Typing SVG" />
+
+<h1>👋 Hi, I’m Abid Hossain Sifat</h1>
+<p><strong>MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About Clean Code & Real-World Solutions</strong></p>
+
+<p>I am a MERN Stack Developer passionate about building fast, scalable, and user-focused web apps. Skilled in JavaScript, React, Node.js, Express, and MongoDB. Love clean code, smart architecture, and solving real-world problems with modern full-stack engineering. Always learning. Always building.</p>
+
+
 </div>
+
 <br>
 
 <div>
-<img src="https://i.ibb.co.com/Kx56rjc5/Mohyminul-Islam.gif" width="260px" align="right"/>
+<img src="https://i.ibb.co.com/Kx56rjc5/Mohyminul-Islam.gif" width="260px" align="right" alt="Developer GIF"/>
 
-<strong>👨‍💻 I'm a MERN Stack Developer</strong>
+### 👨‍💻 About Me:
 
-🔭 Currently Working On: Scalable MERN projects & UI/UX-focused applications
-
-🌱 Currently Learning: React.js, Next.js, and advanced backend patterns
-
-👯 Open to Collaborate On: MERN projects, open-source work, and creative UI ideas
-
-🤔 Seeking Guidance In: Building clean architecture & production-ready deployments
-
-💬 Ask Me About: React, Node.js, MongoDB, APIs, Authentication, Firebase
-
-⚡ Fun Fact: Debugging feels like solving a mystery—and I enjoy every clue!
+* **🔭 Currently Working On:** Scalable MERN projects & UI/UX-focused applications
+* **🌱 Currently Learning:** React.js, Next.js, and advanced backend patterns
+* **👯 Open to Collaborate On:** MERN projects, open-source work, and creative UI ideas
+* **🤔 Seeking Guidance In:** Building clean architecture & production-ready deployments
+* **💬 Ask Me About:** React, Node.js, MongoDB, APIs, Authentication, Firebase
+* **⚡ Fun Fact:** Debugging feels like solving a mystery—and I enjoy every clue!
 
 </div>
 
+<br clear="right">
 <br>
-<br>
+
+---
 
 ## 🌐 Socials:
 
@@ -48,12 +41,14 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/1E5ZMLxiUb/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/cod3x_who?igsh=YnA4bG03NGRjdjE3)
 
+---
 
 ## 💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
 
 ## 🛠️ Frontend Tools & Technologies
 
@@ -65,7 +60,6 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ---
 
@@ -82,20 +76,16 @@ MERN Stack Developer passionate about building fast, scalable, and user-focused 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?username=Abid-Hossain-Sifat&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?username=Abid-Hossain-Sifat&theme=tokyonight" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-</div>
+<br><br>
 
-<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abid-Hossain-Sifat&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abid-Hossain-Sifat&theme=tokyo-night&hide_border=true"/>
+<br><br>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;❤️+From+Abid+Hossain+Sifat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;❤️+From+Abid+Hossain+Sifat" alt="Footer Typing" />
 
 </div>
