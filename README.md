@@ -76,9 +76,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?username=Abid-Hossain-Sifat&theme=tokyonight" alt="GitHub Streak" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight" alt="Top Langs" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abid-Hossain-Sifat&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abid-Hossain-Sifat&theme=tokyonight" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abid-Hossain-Sifat&layout=compact&theme=tokyonight" height="175" alt="Top Langs" />
+</div>
 
 <br><br>
 
